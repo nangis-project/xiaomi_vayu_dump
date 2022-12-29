@@ -1,0 +1,11 @@
+boot.img
+product/app/WebViewGoogle/WebViewGoogle.apk
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/GmsCore/GmsCore.apk
+system_ext/apex/com.android.vndk.v30.apex
+system_ext/priv-app/Settings/Settings.apk
+vendor/etc/camera/st_license.lic
+modem.img
+system/system/data-app/MIBrowserGlobal/MIBrowserGlobal.apk
+system/system/app/MIUIVideoPlayer/MIUIVideoPlayer.apk
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
